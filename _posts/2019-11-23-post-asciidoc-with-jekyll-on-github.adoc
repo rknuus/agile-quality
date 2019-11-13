@@ -1,0 +1,17 @@
+= Post AsciiDoc with Jekyll on GitHub
+rknuus
+
+This article is mainly for my future self. In addition, it might be useful for a few people, even though it's not directly related to the blog's %%TODO(KNR): add link to about%% main topics.
+
+For my blog I don't want to use technologies which need constant attention, e.g. because of security patching etc. Also, I prefer to write in a markup language and let tools take care of typesetting.
+
+That's why, after some minimal research I opted to write my blog in https://asciidoctor.org/docs/what-is-asciidoc/[AsciiDoc], convert it with https://jekyllrb.com/[Jekyll] to a static website, and host the website on https://github.com/[GitHub].
+
+https://jekyllrb.com/docs/github-pages/[GitHub Pages] already supports Jekyll. However, it doesn't support AsciiDoc. It took me some research to make it work. This is how I did it:
+
+- %%TODO(KNR): create file structure%%
+- locally test
+- create github repo
+- create github access token
+- setup Travis project
+- configure project

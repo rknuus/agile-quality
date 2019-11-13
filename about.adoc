@@ -1,0 +1,11 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+This is the personal blog of mailto:rknuus@gmail.com[rknuus]. It covers topics related to agile software development and software quality.
+
+Feedback is warmly welcome. But I decided against providing comments. So please send me an mailto:rknuus@gmail.com[email] instead. Thanks.
+
+This work is licensed under a https://creativecommons.org/licenses/by-nc/4.0/[reative Commons Attribution-NonCommercial 4.0 International License].
